@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
 
 
-            Console.WriteLine("Checking git");
+            Console.WriteLine("Checking hello");
 
             Console.ReadLine();
         }

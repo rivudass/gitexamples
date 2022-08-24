@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Checking gt");
+            Console.WriteLine("Checking gggt");
             Console.ReadLine();
         }
     }
